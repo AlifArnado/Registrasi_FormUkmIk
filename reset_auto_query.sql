@@ -1,0 +1,2 @@
+ALTER TABLE member_ik DROP nomor;
+ALTER TABLE member_ik ADD  nomor INT(5) NOT NULL AUTO_INCREMENT FIRST ,ADD PRIMARY KEY (nomor);

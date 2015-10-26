@@ -1,0 +1,136 @@
+body {
+	margin: 0;
+	padding: 0;
+	
+}
+
+#header {
+	background: #1e90ff;
+	height: 7pc;
+	width: 70pc;
+	margin-top: 0pc;
+}
+
+img {
+	width: 8pc;
+	height:8pc;
+	float: left;
+	margin-left: -11.7pc;
+	margin-top: -2pc;
+}
+
+.message {
+	margin-left: -1pc;
+	margin-top: -1pc;
+}
+
+
+h3 {
+	font-size: 1.3pc;
+	color: white;
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	margin-top: 2pc;
+	margin-left: 1.8pc;
+	margin-top: 2.7pc;
+	float: left;
+}
+
+.menu {
+	float: left;
+	width: 15pc;
+	height: 6pc;
+	background: #1e90ff;
+	margin-left: -4pc;
+	margin-top: 4pc;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+
+}
+
+.tombol-menu {
+	margin-left: 72pc;
+	margin-top: 2pc;
+}
+
+.kampus {
+	float: left;
+	margin-top: 5pc;
+	margin-left: -25pc;
+	font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 1pc;
+	font-weight: bold;
+	color: white;
+}
+
+h1 {
+	margin-left: 17pc;
+	font-size: 2pc;
+	color: white;
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	margin-top: 2pc;
+	float: left;
+}
+
+.content-view {
+	margin-top: -6.7pc;
+	margin-left: 1pc;
+	float: left;
+	width: 72pc;
+	background-color: ;
+}
+
+.content {
+	margin-top: -6.7pc;
+	margin-left: 19pc;
+	float: left;
+	width: 54pc;
+	
+}
+
+ #shadow h2 {
+    padding: 14px;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  #shadow .sample {
+    width:  100px;
+    height: 100px;
+    margin: 16px;
+    padding: 16px;
+    display: inline-block;
+  }
+  #shadow-sample2 {
+    display: inline-block;
+    width:  100px;
+    height: 100px;
+    margin: 16px;
+    padding: 16px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+
+  }
+  #shadow-sample3 {
+    display: inline-block;
+    width:  100px;
+    height: 100px;
+    margin: 16px;
+    padding: 16px;
+    border-radius: 100px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+ .text-button {
+ 	font-weight: bold;
+ }
+
+.text-rata {
+	float: left;
+ 	margin-left: 1pc;
+ }
+
